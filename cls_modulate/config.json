@@ -1,0 +1,8 @@
+{
+    "oltr_on": false,
+    "modulate":  true,
+    "batch_size": 108,
+    "num_epochs": 50,
+    "cls_weight": 1,
+    "cl_weight": 0.1
+}
